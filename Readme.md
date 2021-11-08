@@ -5,6 +5,7 @@ Implemented for educational purposes.
 Task list:
 
 - Two sum
+- Quiсk sort
 
 ## Install
 
