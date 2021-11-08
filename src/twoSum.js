@@ -10,6 +10,22 @@
   Output: [1,4]
 */
 
-const twoSum = () => {};
+const twoSum = (nums = [], target) => {
+  const { length } = nums;
+  const dict = {};
+
+  for (let i = 0; i < length; i += 1) {
+    const currentNum = nums[i];
+    const diff = target - currentNum;
+    if (diff in dict) {
+      const first = dict[diff];
+      return [first, i];
+    }
+
+    dict[currentNum] = i;
+  }
+
+  return null;
+};
 
 export default twoSum;
