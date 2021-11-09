@@ -8,6 +8,7 @@ Task list:
 - Quiсk sort
 - Is anagram
 - Sequence of code execution (Promise)
+- Shuffle
 
 ## Install
 
