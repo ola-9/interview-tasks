@@ -7,6 +7,7 @@ Task list:
 - Two sum
 - Quiсk sort
 - Is anagram
+- Sequence of code execution (Promise)
 
 ## Install
 
