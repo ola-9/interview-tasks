@@ -6,6 +6,7 @@ Task list:
 
 - Two sum
 - Quiсk sort
+- Is anagram
 
 ## Install
 
